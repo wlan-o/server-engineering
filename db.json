@@ -1,0 +1,10 @@
+{
+  status: [
+    {status: "DELIVERED", description: "Доставлено."},
+    {status: "TERMINAL", description: "Зарегистрирован/прибыл на входной/исходящий терминал хранения"},
+    {status: "INTERNATIONAL", description: "Отправлен из страны отправителя"},
+    {status: "UNKNOWN", description: "Статус неизвестен"},
+    {status: "CUSTOMS", description: "На таможнном оформлении"},
+    {status: "DEVIATION", description: "Что-то пошло не так во время производства/сбора"}
+  ]
+}
