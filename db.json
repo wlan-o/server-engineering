@@ -1,5 +1,5 @@
 {
-  status: [
+  "statuses": [
     {status: "DELIVERED", description: "Доставлено."},
     {status: "TERMINAL", description: "Зарегистрирован/прибыл на входной/исходящий терминал хранения"},
     {status: "INTERNATIONAL", description: "Отправлен из страны отправителя"},
